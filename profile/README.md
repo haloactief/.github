@@ -1,3 +1,3 @@
 # (。・ω・。)
 
-![reze](https://github.com/user-attachments/assets/a0b32ced-c4c7-4a2d-a4f7-b721bd4f96e1)
+![reze_fp](https://github.com/user-attachments/assets/49ac219f-fd59-4aba-9c56-f04dbf7ea204)
