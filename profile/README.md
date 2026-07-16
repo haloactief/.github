@@ -15,3 +15,13 @@
 <img width="181" height="217" alt="diagnosisscaled" src="https://github.com/user-attachments/assets/44724a4f-5700-4bee-aecd-0840666c777b" />
 
 <img width="246" height="217" alt="blscaled" src="https://github.com/user-attachments/assets/2a906487-93ee-4195-938f-eb023b4f888b" />
+
+<img width="122" height="217" alt="bibiscaled" src="https://github.com/user-attachments/assets/824b8ed2-e9d2-4fa8-8eab-4f2871e43516" />
+
+<img width="217" height="217" alt="tegscaled" src="https://github.com/user-attachments/assets/8a78e796-b197-4777-a15c-43997ed7ea6c" />
+
+<img width="217" height="217" alt="tetoscaled" src="https://github.com/user-attachments/assets/c15e5a05-a879-4a40-bdd2-0469076df287" />
+
+<img width="385" height="217" alt="ratscaled" src="https://github.com/user-attachments/assets/4471044c-bdc1-49ee-bfdc-753e66d8837d" />
+
+<img width="251" height="217" alt="fafscaled" src="https://github.com/user-attachments/assets/0fa286b6-7cd2-44f2-b26d-12412f0c03d8" />
